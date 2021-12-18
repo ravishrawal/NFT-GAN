@@ -48,7 +48,7 @@ Results:
 ![image](https://user-images.githubusercontent.com/14844731/146657777-9c1500b8-23e3-4cc3-8e16-8f5c7bb49054.png)
  
  - Inter-Dataset Similarity and Intra-Dataset Diversity Calculations for datasets: 
- ![image](https://user-images.githubusercontent.com/14844731/146657802-5b9f8123-0956-4575-a659-455d4f6918ff.png)
+![image](https://user-images.githubusercontent.com/14844731/146657836-140dc039-4618-41d4-8fbb-1d62ede82c48.png)
 
  - We find that KID results are more varied at convergence when datasets are less similar, implying that we can afford to freeze more D layers when the IDS score is high.
  - IDD results are inconclusive
