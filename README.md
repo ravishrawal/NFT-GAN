@@ -45,7 +45,8 @@ Results:
 - KID vs # Iteration for different FreezeD:  
 
 ![alt text](https://github.com/ravishrawal/NFT-GAN/blob/main/GAN_plots.png?raw=true)
-![image](https://user-images.githubusercontent.com/14844731/146657777-9c1500b8-23e3-4cc3-8e16-8f5c7bb49054.png)
+![image](https://user-images.githubusercontent.com/14844731/146657856-7664e4bb-3607-4ca3-8d39-22495926179c.png)
+
  
  - Inter-Dataset Similarity and Intra-Dataset Diversity Calculations for datasets: 
 ![image](https://user-images.githubusercontent.com/14844731/146657836-140dc039-4618-41d4-8fbb-1d62ede82c48.png)
